@@ -1,0 +1,31 @@
+[
+    {
+        "name": "iphone",
+        "price": 143,
+        "feature": "true",
+        "company": "apple"
+    },
+    {
+        "name": "iphone7",
+        "price": 14,
+        "feature": "true",
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 14300,
+        "feature": "true",
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 1143,
+        "feature": "true",
+        "company": "apple"
+    },
+    {
+        "name": "iphone11",
+        "price": 140,
+        "company": "apple"
+    }
+]
